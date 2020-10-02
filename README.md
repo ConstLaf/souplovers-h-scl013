@@ -28,9 +28,9 @@ Te invitamos a ver nuestros prototipos de alta fidelidad:
 
 [Versión **escritorio**](https://www.figma.com/proto/jj9z9wdAuvcuXABN5Z7Nt2/Unimarc?node-id=48%3A873&scaling=min-zoom) 
 
-Te invitamos a ver nuestra versión web
+Visita nuestra app demo para escritorio (en desarrollo)
 
-[**escritorio**](https://unimarc-recetas-souplovers.web.app)
+[Versión **escritorio**](https://unimarc-recetas-souplovers.web.app)
 
 ## 3. Definición de Usuario:
 

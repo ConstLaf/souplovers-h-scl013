@@ -45,6 +45,7 @@
   font-family: "Clarendon-Regular";
   font-weight: 700;
   font-size: 20px;
+
 }
 
 .clarendon-regular {
@@ -62,12 +63,12 @@ a {
 }
 
 .col-width-one {
-  width: 301px;
-  margin: 0;
+  width: 320px;
+
 }
 
 .col-width-two {
-  width: 294px;
+  width: 300px;
   margin: 0;
 }
 
@@ -92,4 +93,14 @@ a {
 .icon-color {
   margin: 0;
   padding: 0 0;
+}
+.iconrd-s{
+  width: 3rem;
+}
+.iconcorreo-s{
+  width: 2rem;
+
+}
+h4{
+  font-family: "Clarendon-Regular"
 }
